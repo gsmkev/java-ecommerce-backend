@@ -1,9 +1,13 @@
 /Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/App.java
 /Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/api/CategoriaController.java
+/Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/api/ClienteController.java
 /Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/api/ProductoController.java
 /Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/config/JaxRsActivator.java
+/Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/dto/ClienteDTO.java
 /Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/dto/ProductoDTO.java
 /Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/model/Categoria.java
+/Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/model/Cliente.java
 /Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/model/Producto.java
 /Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/service/CategoriaService.java
+/Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/service/ClienteService.java
 /Users/kevin/Documents/GitHub/java-ecommerce-backend/src/main/java/com/ecommerce/service/ProductoService.java
