@@ -1,5 +1,5 @@
-com/ecommerce/service/Example.class
-com/ecommerce/model/Example.class
-com/ecommerce/api/HelloWorldResource.class
 com/ecommerce/config/JaxRsActivator.class
+com/ecommerce/service/CategoriaService.class
 com/ecommerce/App.class
+com/ecommerce/model/Categoria.class
+com/ecommerce/api/CategoriaController.class
