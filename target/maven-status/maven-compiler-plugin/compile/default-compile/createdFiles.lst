@@ -1,5 +1,9 @@
-com/ecommerce/config/JaxRsActivator.class
+com/ecommerce/model/Producto.class
+com/ecommerce/api/ProductoController.class
 com/ecommerce/service/CategoriaService.class
+com/ecommerce/dto/ProductoDTO.class
 com/ecommerce/App.class
+com/ecommerce/config/JaxRsActivator.class
+com/ecommerce/service/ProductoService.class
 com/ecommerce/model/Categoria.class
 com/ecommerce/api/CategoriaController.class
